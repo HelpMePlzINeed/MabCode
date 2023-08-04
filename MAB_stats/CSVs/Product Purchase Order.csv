@@ -1,0 +1,153 @@
+Day ,Transactions ID ,Type ,Vendor ,Location ,Product ,Quantity ,Amount 
+89,15590,Finished Goods,VFG1,Detroit,Red Wine,20000,297024
+87,15265,Raw Material,VRM1,Detroit,SparkWineLiquid,3000,24000
+86,13956,Online,null,Detroit,Red Wine Liquid,1224,8935
+86,14135,Online,null,Detroit,Label ,1740,1514
+86,15069,Raw Material,VRM1,Detroit,Bottle N Cap,5000,6000
+86,15069,Raw Material,VRM1,Detroit,Label ,5000,7000
+86,15069,Raw Material,VRM1,Detroit,SparkWineLiquid,1000,8080
+86,15069,Raw Material,VRM1,Detroit,Red Wine Liquid,1000,10000
+86,15069,Raw Material,VRM1,Detroit,WhiteWineLiquid,1000,8000
+85,14153,Online,null,Detroit,Label ,816,938
+83,14318,Online,null,Detroit,Label ,1680,2033
+82,13566,Online,null,Detroit,Red Wine Liquid,1704,12064
+82,14305,Online,null,Detroit,Label ,816,873
+80,14133,Raw Material,VRM1,Detroit,Label ,30000,31104
+79,13185,Online,null,Detroit,Bottle N Cap,1776,1740
+79,13772,Finished Goods,VFG1,Los Angeles,Red Wine,12000,162323
+77,13409,Raw Material,VRM1,Detroit,Bottle N Cap,30000,23760
+77,13409,Raw Material,VRM1,Detroit,Label ,40000,36960
+77,13409,Raw Material,VRM1,Detroit,SparkWineLiquid,12000,63360
+77,13409,Raw Material,VRM1,Detroit,Red Wine Liquid,12000,79200
+77,13409,Raw Material,VRM1,Detroit,WhiteWineLiquid,12000,63360
+76,12415,Online,null,Detroit,Label ,840,269
+74,13007,Finished Goods,VFG1,Detroit,Sparkling Wine,12000,134028
+72,11502,Online,null,Detroit,SparkWineLiquid,1500,3225
+72,11842,Online,null,Detroit,Bottle N Cap,864,311
+72,11884,Online,null,Detroit,Bottle N Cap,1356,407
+72,12057,Online,null,Detroit,White Wine,1200,6660
+71,11676,Online,null,Detroit,Sparkling Wine,1428,6812
+71,11693,Online,null,Detroit,Sparkling Wine,636,3466
+70,11869,Finished Goods,VFG1,Detroit,Sparkling Wine,8000,106800
+69,10945,Online,null,Detroit,SparkWineLiquid,780,2309
+69,11310,Online,null,Detroit,SparkWineLiquid,1380,5065
+69,12046,Raw Material,VRM1,Detroit,Bottle N Cap,40000,40656
+69,12046,Raw Material,VRM1,Detroit,Label ,80000,96096
+69,12046,Raw Material,VRM1,Detroit,SparkWineLiquid,12000,80640
+69,12046,Raw Material,VRM1,Detroit,Red Wine Liquid,12000,100800
+69,12046,Raw Material,VRM1,Detroit,WhiteWineLiquid,12000,80640
+68,11671,Raw Material,VRM1,Detroit,SparkWineLiquid,3000,24240
+68,11671,Raw Material,VRM1,Detroit,Red Wine Liquid,3000,30300
+68,11671,Raw Material,VRM1,Detroit,WhiteWineLiquid,3000,24240
+66,11328,Raw Material,VRM1,Detroit,Bottle N Cap,40000,17808
+66,11328,Raw Material,VRM1,Detroit,Label ,80000,38976
+66,11328,Raw Material,VRM1,Detroit,SparkWineLiquid,12000,32256
+66,11328,Raw Material,VRM1,Detroit,Red Wine Liquid,12000,47376
+66,11328,Raw Material,VRM1,Detroit,WhiteWineLiquid,12000,36288
+64,10085,Online,null,Detroit,Bottle N Cap,1776,462
+64,10240,Online,null,Detroit,Bottle N Cap,1176,517
+64,11135,Finished Goods,VFG1,Detroit,Sparkling Wine,100000,362250
+63,9903,Online,null,Detroit,WhiteWineLiquid,1176,2223
+63,10435,Online,null,Detroit,Bottle N Cap,864,294
+62,10415,Finished Goods,VFG1,Los Angeles,Sparkling Wine,8000,28704
+61,9313,Online,null,Detroit,Red Wine,1176,6386
+61,9538,Online,null,Detroit,SparkWineLiquid,1104,3577
+61,10241,Raw Material,VRM1,Detroit,Bottle N Cap,40000,15840
+61,10241,Raw Material,VRM1,Detroit,Label ,80000,48960
+61,10241,Raw Material,VRM1,Detroit,SparkWineLiquid,12000,30240
+61,10241,Raw Material,VRM1,Detroit,Red Wine Liquid,12000,52272
+61,10241,Raw Material,VRM1,Detroit,WhiteWineLiquid,20000,59580
+60,9886,Online,null,Detroit,Sparkling Wine,1560,11825
+58,9303,Online,null,Detroit,White Wine,1692,7902
+58,9327,Online,null,Detroit,Label ,1164,384
+58,10080,Finished Goods,VFG1,Detroit,Sparkling Wine,40000,176528
+57,8796,Online,null,Detroit,SparkWineLiquid,648,1004
+57,8974,Online,null,Detroit,Sparkling Wine,1080,3100
+56,8963,Online,null,Detroit,SparkWineLiquid,672,1277
+55,9330,Raw Material,VRM1,Detroit,Bottle N Cap,40000,15840
+55,9330,Raw Material,VRM1,Detroit,Label ,80000,38720
+55,9330,Raw Material,VRM1,Detroit,SparkWineLiquid,12000,34637
+55,9330,Raw Material,VRM1,Detroit,Red Wine Liquid,12000,48365
+55,9330,Raw Material,VRM1,Detroit,WhiteWineLiquid,12000,33053
+53,7861,Online,null,Detroit,Sparkling Wine,660,8415
+52,7675,Online,null,Detroit,Sparkling Wine,1620,18176
+52,8401,Online,null,Detroit,White Wine,1248,18121
+52,8583,Online,null,Detroit,Sparkling Wine,1344,20362
+51,8388,Online,null,Detroit,Sparkling Wine,1620,6399
+50,7303,Online,null,Detroit,Sparkling Wine,924,8150
+50,7842,Online,null,Detroit,Label ,1272,1323
+48,7113,Online,null,Detroit,Sparkling Wine,1104,13634
+48,7288,Online,null,Detroit,Label ,984,836
+48,7310,Online,null,Detroit,Label ,1632,1469
+48,7480,Online,null,Detroit,Sparkling Wine,792,6748
+47,6748,Online,null,Detroit,Red Wine,708,8574
+46,7312,Raw Material,VRM1,Detroit,Bottle N Cap,40000,34080
+46,7312,Raw Material,VRM1,Detroit,Label ,80000,79520
+46,7312,Raw Material,VRM1,Detroit,SparkWineLiquid,12000,68160
+46,7312,Raw Material,VRM1,Detroit,Red Wine Liquid,12000,85200
+46,7312,Raw Material,VRM1,Detroit,WhiteWineLiquid,12000,68160
+44,6722,Online,null,Detroit,White Wine,972,15387
+43,6121,Online,null,Detroit,Sparkling Wine,1668,21734
+43,6923,Raw Material,VRM1,Detroit,WhiteWineLiquid,5000,28968
+43,6925,Finished Goods,VFG1,Chicago,Red Wine,60000,846600
+42,6562,Online,null,Detroit,White Wine,1188,17428
+41,5953,Online,null,Detroit,Sparkling Wine,1212,13914
+41,6511,Raw Material,VRM1,Detroit,Bottle N Cap,30000,30600
+41,6511,Raw Material,VRM1,Detroit,Label ,80000,95200
+41,6511,Raw Material,VRM1,Detroit,SparkWineLiquid,12000,81600
+41,6511,Raw Material,VRM1,Detroit,Red Wine Liquid,12000,102000
+41,6511,Raw Material,VRM1,Detroit,WhiteWineLiquid,8000,54400
+35,4812,Online,null,Detroit,Label ,1344,1478
+34,4619,Online,null,Detroit,Sparkling Wine,1344,18238
+33,4421,Online,null,Detroit,WhiteWineLiquid,996,4900
+33,4993,Online,null,Detroit,Sparkling Wine,1212,12568
+32,3761,Finished Goods,VFG1,Los Angeles,White Wine,20000,310080
+32,4045,Finished Goods,VFG1,Chicago,Sparkling Wine,12000,158760
+32,4527,Raw Material,VRM1,Detroit,Label ,50000,51060
+32,4527,Raw Material,VRM1,Detroit,SparkWineLiquid,8000,45485
+32,4527,Raw Material,VRM1,Detroit,Red Wine Liquid,8000,56304
+32,4527,Raw Material,VRM1,Detroit,WhiteWineLiquid,8000,45043
+30,3871,Online,null,Detroit,White Wine,1752,18449
+25,2967,Online,null,Detroit,Bottle N Cap,1248,1048
+24,2619,Online,null,Detroit,Bottle N Cap,1224,1175
+22,2418,Online,null,Detroit,Label ,1680,1730
+20,2088,Finished Goods,VFG1,New York,Sparkling Wine,8000,141504
+20,2088,Finished Goods,VFG1,New York,Red Wine,8000,136435
+20,2088,Finished Goods,VFG1,New York,White Wine,8000,152486
+19,1780,Finished Goods,VFG1,"Washington, D.C.",Sparkling Wine,8000,142560
+19,1780,Finished Goods,VFG1,"Washington, D.C.",Red Wine,8000,137632
+19,1780,Finished Goods,VFG1,"Washington, D.C.",White Wine,8000,153824
+19,2430,Online,null,Detroit,Bottle N Cap,1368,1450
+17,1613,Online,null,Chicago,White Wine,948,11774
+17,1621,Online,null,Detroit,Red Wine,960,11798
+15,879,Finished Goods,VFG1,Detroit,Sparkling Wine,100000,1402200
+15,951,Online,null,Chicago,White Wine,804,9053
+13,1128,Online,null,Chicago,Red Wine Liquid,1320,8554
+13,1457,Raw Material,VRM1,Detroit,Label ,60000,76800
+12,783,Online,null,Detroit,Label ,1176,1152
+11,508,Raw Material,VRM1,Detroit,Bottle N Cap,80000,87040
+11,508,Raw Material,VRM1,Detroit,Label ,120000,154560
+11,508,Raw Material,VRM1,Detroit,SparkWineLiquid,20000,134400
+11,508,Raw Material,VRM1,Detroit,Red Wine Liquid,20000,168000
+11,508,Raw Material,VRM1,Detroit,WhiteWineLiquid,20000,134400
+9,254,Finished Goods,VFG1,Chicago,Sparkling Wine,60000,900000
+9,334,Finished Goods,VFG2,San Francisco,Sparkling Wine,12000,181800
+9,334,Finished Goods,VFG2,San Francisco,Red Wine,12000,206040
+9,334,Finished Goods,VFG2,San Francisco,White Wine,12000,230280
+8,489,Online,null,Detroit,Bottle N Cap,1788,1752
+7,476,Online,null,Detroit,Bottle N Cap,1596,1468
+5,242,Finished Goods,VFG2,Miami,Sparkling Wine,12000,180000
+5,242,Finished Goods,VFG2,Miami,Red Wine,12000,204000
+5,242,Finished Goods,VFG2,Miami,White Wine,12000,228000
+4,326,Raw Material,VRM1,Detroit,Bottle N Cap,100000,120000
+4,326,Raw Material,VRM1,Detroit,Label ,120000,168000
+4,326,Raw Material,VRM1,Detroit,SparkWineLiquid,30000,240000
+4,326,Raw Material,VRM1,Detroit,Red Wine Liquid,30000,300000
+4,326,Raw Material,VRM1,Detroit,WhiteWineLiquid,30000,240000
+3,220,Finished Goods,VFG1,Los Angeles,Sparkling Wine,12000,180000
+3,220,Finished Goods,VFG1,Los Angeles,Red Wine,12000,204000
+3,220,Finished Goods,VFG1,Los Angeles,White Wine,12000,228000
+3,225,Finished Goods,VFG1,Chicago,White Wine,100000,1900000
+3,241,Finished Goods,VFG1,New York,Sparkling Wine,12000,180000
+3,241,Finished Goods,VFG1,New York,Red Wine,12000,204000
+3,241,Finished Goods,VFG1,New York,White Wine,12000,228000

@@ -1,0 +1,1523 @@
+Day ,Inventory ,Product ,Available 
+52,Chicago,Sparkling Wine,0
+52,Chicago,Red Wine,0
+52,Chicago,White Wine,0
+51,Chicago,Sparkling Wine,12000
+51,Chicago,Red Wine,4000
+51,Chicago,White Wine,10278
+50,Chicago,Sparkling Wine,12000
+50,Chicago,Red Wine,4000
+50,Chicago,White Wine,10278
+49,Chicago,Sparkling Wine,12000
+49,Chicago,Red Wine,4000
+49,Chicago,White Wine,10278
+48,Chicago,Sparkling Wine,12000
+48,Chicago,Red Wine,4000
+48,Chicago,White Wine,10278
+47,Chicago,Sparkling Wine,12000
+47,Chicago,Red Wine,4000
+47,Chicago,White Wine,10278
+46,Chicago,Sparkling Wine,12000
+46,Chicago,Red Wine,4000
+46,Chicago,White Wine,10278
+45,Chicago,Sparkling Wine,12000
+45,Chicago,Red Wine,4000
+45,Chicago,White Wine,10278
+44,Chicago,Sparkling Wine,12000
+44,Chicago,Red Wine,4000
+44,Chicago,White Wine,10278
+43,Chicago,Sparkling Wine,12000
+43,Chicago,Red Wine,4000
+43,Chicago,White Wine,10278
+42,Chicago,Sparkling Wine,12000
+42,Chicago,White Wine,10278
+41,Chicago,Sparkling Wine,12000
+41,Chicago,White Wine,10278
+40,Chicago,Sparkling Wine,12000
+40,Chicago,White Wine,10278
+39,Chicago,Sparkling Wine,12000
+39,Chicago,White Wine,10678
+38,Chicago,Sparkling Wine,12000
+38,Chicago,White Wine,10678
+37,Chicago,Sparkling Wine,12000
+37,Chicago,White Wine,10678
+36,Chicago,Sparkling Wine,12000
+36,Chicago,White Wine,30678
+35,Chicago,Sparkling Wine,12000
+35,Chicago,White Wine,30678
+34,Chicago,Sparkling Wine,12000
+34,Chicago,White Wine,30678
+33,Chicago,Sparkling Wine,12000
+33,Chicago,White Wine,30678
+32,Chicago,Sparkling Wine,12000
+32,Chicago,White Wine,40678
+31,Chicago,Sparkling Wine,0
+31,Chicago,White Wine,40678
+30,Chicago,Sparkling Wine,32500
+30,Chicago,White Wine,44624
+29,Chicago,Sparkling Wine,32500
+29,Chicago,White Wine,44624
+28,Chicago,Sparkling Wine,92500
+28,Chicago,White Wine,44624
+27,Chicago,Sparkling Wine,78500
+27,Chicago,White Wine,0
+26,Chicago,Sparkling Wine,0
+26,Chicago,White Wine,0
+25,Chicago,Sparkling Wine,0
+25,Chicago,White Wine,0
+24,Chicago,Sparkling Wine,20500
+24,Chicago,White Wine,0
+23,Chicago,Sparkling Wine,0
+23,Chicago,White Wine,0
+22,Chicago,Sparkling Wine,0
+22,Chicago,White Wine,0
+21,Chicago,Sparkling Wine,50000
+21,Chicago,White Wine,0
+20,Chicago,Sparkling Wine,0
+20,Chicago,White Wine,0
+19,Chicago,Sparkling Wine,0
+19,Chicago,White Wine,0
+18,Chicago,Sparkling Wine,0
+18,Chicago,White Wine,0
+17,Chicago,Sparkling Wine,0
+17,Chicago,White Wine,0
+16,Chicago,Sparkling Wine,0
+16,Chicago,White Wine,0
+15,Chicago,Sparkling Wine,0
+15,Chicago,White Wine,0
+14,Chicago,Sparkling Wine,0
+14,Chicago,White Wine,0
+13,Chicago,Sparkling Wine,0
+13,Chicago,White Wine,0
+12,Chicago,Sparkling Wine,0
+12,Chicago,White Wine,0
+11,Chicago,Sparkling Wine,0
+11,Chicago,White Wine,0
+10,Chicago,Sparkling Wine,0
+10,Chicago,White Wine,0
+9,Chicago,Sparkling Wine,0
+9,Chicago,White Wine,0
+8,Chicago,White Wine,0
+7,Chicago,White Wine,42872
+6,Chicago,White Wine,42872
+5,Chicago,White Wine,100000
+4,Chicago,White Wine,100000
+3,Chicago,White Wine,100000
+90,Detroit,Sparkling Wine,0
+90,Detroit,Red Wine,7692
+90,Detroit,White Wine,7178
+89,Detroit,Sparkling Wine,0
+89,Detroit,Red Wine,7692
+89,Detroit,White Wine,7178
+88,Detroit,Sparkling Wine,0
+88,Detroit,Red Wine,0
+88,Detroit,White Wine,7178
+87,Detroit,Sparkling Wine,0
+87,Detroit,Red Wine,0
+87,Detroit,White Wine,8066
+86,Detroit,Sparkling Wine,0
+86,Detroit,Red Wine,2224
+86,Detroit,White Wine,11066
+85,Detroit,Sparkling Wine,0
+85,Detroit,Red Wine,0
+85,Detroit,White Wine,60066
+84,Detroit,Sparkling Wine,0
+84,Detroit,Red Wine,8980
+84,Detroit,White Wine,60066
+83,Detroit,Sparkling Wine,3712
+83,Detroit,Red Wine,13980
+83,Detroit,White Wine,65066
+82,Detroit,Sparkling Wine,4600
+82,Detroit,Red Wine,40890
+82,Detroit,White Wine,65066
+81,Detroit,Sparkling Wine,77600
+81,Detroit,Red Wine,39276
+81,Detroit,White Wine,65066
+80,Detroit,Sparkling Wine,172840
+80,Detroit,Red Wine,39276
+80,Detroit,White Wine,65066
+79,Detroit,Sparkling Wine,165600
+79,Detroit,Red Wine,37482
+79,Detroit,White Wine,65066
+78,Detroit,Sparkling Wine,165600
+78,Detroit,Red Wine,34185
+78,Detroit,White Wine,65066
+77,Detroit,Sparkling Wine,165600
+77,Detroit,Red Wine,27984
+77,Detroit,White Wine,62185
+76,Detroit,Sparkling Wine,165600
+76,Detroit,Red Wine,27984
+76,Detroit,White Wine,53066
+75,Detroit,Sparkling Wine,165600
+75,Detroit,Red Wine,27984
+75,Detroit,White Wine,53066
+74,Detroit,Sparkling Wine,163192
+74,Detroit,Red Wine,32984
+74,Detroit,White Wine,57066
+73,Detroit,Sparkling Wine,142025
+73,Detroit,Red Wine,32984
+73,Detroit,White Wine,57066
+72,Detroit,Sparkling Wine,136260
+72,Detroit,Red Wine,40864
+72,Detroit,White Wine,62066
+71,Detroit,Sparkling Wine,136260
+71,Detroit,Red Wine,31620
+71,Detroit,White Wine,60866
+70,Detroit,Sparkling Wine,134196
+70,Detroit,Red Wine,23940
+70,Detroit,White Wine,60866
+69,Detroit,Sparkling Wine,126196
+69,Detroit,Red Wine,19415
+69,Detroit,White Wine,57711
+68,Detroit,Sparkling Wine,126196
+68,Detroit,Red Wine,19415
+68,Detroit,White Wine,48866
+67,Detroit,Sparkling Wine,132896
+67,Detroit,Red Wine,18204
+67,Detroit,White Wine,41195
+66,Detroit,Sparkling Wine,131305
+66,Detroit,Red Wine,18204
+66,Detroit,White Wine,33866
+65,Detroit,Sparkling Wine,122348
+65,Detroit,Red Wine,18204
+65,Detroit,White Wine,33866
+64,Detroit,Sparkling Wine,122348
+64,Detroit,Red Wine,14887
+64,Detroit,White Wine,33866
+63,Detroit,Sparkling Wine,27348
+63,Detroit,Red Wine,16204
+63,Detroit,White Wine,33517
+62,Detroit,Sparkling Wine,27348
+62,Detroit,Red Wine,16204
+62,Detroit,White Wine,24447
+61,Detroit,Sparkling Wine,24013
+61,Detroit,Red Wine,16204
+61,Detroit,White Wine,19298
+60,Detroit,Sparkling Wine,14868
+60,Detroit,Red Wine,15028
+60,Detroit,White Wine,19298
+59,Detroit,Sparkling Wine,13308
+59,Detroit,Red Wine,15028
+59,Detroit,White Wine,19298
+58,Detroit,Sparkling Wine,13308
+58,Detroit,Red Wine,15028
+58,Detroit,White Wine,19298
+57,Detroit,Sparkling Wine,4308
+57,Detroit,Red Wine,9364
+57,Detroit,White Wine,17606
+56,Detroit,Sparkling Wine,10976
+56,Detroit,Red Wine,3028
+56,Detroit,White Wine,14992
+55,Detroit,Sparkling Wine,10976
+55,Detroit,Red Wine,3028
+55,Detroit,White Wine,5752
+54,Detroit,Sparkling Wine,12844
+54,Detroit,Red Wine,18028
+54,Detroit,White Wine,5606
+53,Detroit,Sparkling Wine,25844
+53,Detroit,Red Wine,16708
+53,Detroit,White Wine,10278
+52,Detroit,Sparkling Wine,13184
+52,Detroit,Red Wine,12708
+52,Detroit,White Wine,0
+51,Detroit,Sparkling Wine,10220
+51,Detroit,Red Wine,12708
+51,Detroit,White Wine,24080
+50,Detroit,Sparkling Wine,8600
+50,Detroit,Red Wine,12708
+50,Detroit,White Wine,32080
+49,Detroit,Sparkling Wine,7676
+49,Detroit,Red Wine,12708
+49,Detroit,White Wine,32080
+48,Detroit,Sparkling Wine,13040
+48,Detroit,Red Wine,6418
+48,Detroit,White Wine,33712
+47,Detroit,Sparkling Wine,6780
+47,Detroit,Red Wine,6418
+47,Detroit,White Wine,39682
+46,Detroit,Sparkling Wine,7764
+46,Detroit,Red Wine,0
+46,Detroit,White Wine,50990
+45,Detroit,Sparkling Wine,7764
+45,Detroit,Red Wine,20000
+45,Detroit,White Wine,42682
+44,Detroit,Sparkling Wine,7764
+44,Detroit,Red Wine,20000
+44,Detroit,White Wine,42682
+43,Detroit,Sparkling Wine,15764
+43,Detroit,Red Wine,20000
+43,Detroit,White Wine,46710
+42,Detroit,Sparkling Wine,14096
+42,Detroit,Red Wine,20000
+42,Detroit,White Wine,41710
+41,Detroit,Sparkling Wine,1212
+41,Detroit,Red Wine,18381
+41,Detroit,White Wine,40522
+40,Detroit,Sparkling Wine,0
+40,Detroit,Red Wine,8000
+40,Detroit,White Wine,0
+39,Detroit,Sparkling Wine,0
+39,Detroit,Red Wine,8000
+39,Detroit,White Wine,0
+38,Detroit,Sparkling Wine,0
+38,Detroit,Red Wine,8000
+38,Detroit,White Wine,20000
+37,Detroit,Sparkling Wine,0
+37,Detroit,Red Wine,8000
+37,Detroit,White Wine,0
+36,Detroit,Sparkling Wine,0
+36,Detroit,Red Wine,8000
+36,Detroit,White Wine,0
+35,Detroit,Sparkling Wine,0
+35,Detroit,Red Wine,8000
+35,Detroit,White Wine,0
+34,Detroit,Sparkling Wine,0
+34,Detroit,Red Wine,8000
+34,Detroit,White Wine,0
+33,Detroit,Sparkling Wine,0
+33,Detroit,Red Wine,8000
+33,Detroit,White Wine,996
+32,Detroit,Sparkling Wine,0
+32,Detroit,Red Wine,8000
+32,Detroit,White Wine,10910
+31,Detroit,Sparkling Wine,0
+31,Detroit,Red Wine,0
+31,Detroit,White Wine,0
+30,Detroit,Sparkling Wine,0
+30,Detroit,Red Wine,0
+30,Detroit,White Wine,0
+29,Detroit,Sparkling Wine,0
+29,Detroit,Red Wine,0
+29,Detroit,White Wine,0
+28,Detroit,Sparkling Wine,0
+28,Detroit,Red Wine,0
+28,Detroit,White Wine,0
+27,Detroit,Sparkling Wine,0
+27,Detroit,Red Wine,0
+27,Detroit,White Wine,0
+26,Detroit,Sparkling Wine,0
+26,Detroit,Red Wine,0
+26,Detroit,White Wine,0
+25,Detroit,Sparkling Wine,0
+25,Detroit,Red Wine,0
+25,Detroit,White Wine,0
+24,Detroit,Sparkling Wine,0
+24,Detroit,Red Wine,0
+24,Detroit,White Wine,0
+23,Detroit,Sparkling Wine,0
+23,Detroit,Red Wine,0
+23,Detroit,White Wine,0
+22,Detroit,Sparkling Wine,2000
+22,Detroit,Red Wine,1360
+22,Detroit,White Wine,0
+21,Detroit,Sparkling Wine,2000
+21,Detroit,Red Wine,1360
+21,Detroit,White Wine,0
+20,Detroit,Sparkling Wine,14000
+20,Detroit,Red Wine,11960
+20,Detroit,White Wine,0
+19,Detroit,Sparkling Wine,64000
+19,Detroit,Red Wine,11960
+19,Detroit,White Wine,0
+18,Detroit,Sparkling Wine,76000
+18,Detroit,Red Wine,23960
+18,Detroit,White Wine,0
+17,Detroit,Sparkling Wine,76000
+17,Detroit,Red Wine,23960
+17,Detroit,White Wine,0
+16,Detroit,Sparkling Wine,76000
+16,Detroit,Red Wine,28000
+16,Detroit,White Wine,24592
+15,Detroit,Sparkling Wine,118000
+15,Detroit,Red Wine,28000
+15,Detroit,White Wine,24592
+14,Detroit,Sparkling Wine,28412
+14,Detroit,Red Wine,40000
+14,Detroit,White Wine,26466
+13,Detroit,Sparkling Wine,10000
+13,Detroit,Red Wine,39006
+13,Detroit,White Wine,27090
+12,Detroit,Sparkling Wine,10000
+12,Detroit,Red Wine,19502
+12,Detroit,White Wine,27090
+11,Detroit,Sparkling Wine,20000
+11,Detroit,Red Wine,0
+11,Detroit,White Wine,27090
+10,Detroit,Sparkling Wine,20000
+10,Detroit,Red Wine,0
+10,Detroit,White Wine,8876
+9,Detroit,Sparkling Wine,30000
+9,Detroit,Red Wine,9900
+9,Detroit,White Wine,19800
+8,Detroit,Sparkling Wine,30000
+8,Detroit,Red Wine,9900
+8,Detroit,White Wine,19800
+7,Detroit,Sparkling Wine,30000
+7,Detroit,Red Wine,9900
+7,Detroit,White Wine,19800
+6,Detroit,Sparkling Wine,30000
+6,Detroit,Red Wine,9900
+6,Detroit,White Wine,19800
+5,Detroit,Sparkling Wine,30000
+5,Detroit,Red Wine,9900
+4,Detroit,Sparkling Wine,20000
+90,Los Angeles,Sparkling Wine,5194
+90,Los Angeles,Red Wine,17124
+90,Los Angeles,White Wine,4246
+89,Los Angeles,Sparkling Wine,5640
+89,Los Angeles,Red Wine,17384
+89,Los Angeles,White Wine,4475
+88,Los Angeles,Sparkling Wine,6076
+88,Los Angeles,Red Wine,12625
+88,Los Angeles,White Wine,4693
+87,Los Angeles,Sparkling Wine,6503
+87,Los Angeles,Red Wine,12883
+87,Los Angeles,White Wine,4933
+86,Los Angeles,Sparkling Wine,6892
+86,Los Angeles,Red Wine,13120
+86,Los Angeles,White Wine,5154
+85,Los Angeles,Sparkling Wine,7281
+85,Los Angeles,Red Wine,13330
+85,Los Angeles,White Wine,5373
+84,Los Angeles,Sparkling Wine,7666
+84,Los Angeles,Red Wine,13569
+84,Los Angeles,White Wine,5595
+83,Los Angeles,Sparkling Wine,8055
+83,Los Angeles,Red Wine,13794
+83,Los Angeles,White Wine,5811
+82,Los Angeles,Sparkling Wine,8456
+82,Los Angeles,Red Wine,14021
+82,Los Angeles,White Wine,6025
+81,Los Angeles,Sparkling Wine,9919
+81,Los Angeles,Red Wine,14941
+81,Los Angeles,White Wine,6819
+80,Los Angeles,Sparkling Wine,11371
+80,Los Angeles,Red Wine,10763
+80,Los Angeles,White Wine,7606
+79,Los Angeles,Sparkling Wine,12837
+79,Los Angeles,Red Wine,11642
+79,Los Angeles,White Wine,8424
+78,Los Angeles,Sparkling Wine,14295
+78,Los Angeles,Red Wine,426
+78,Los Angeles,White Wine,9177
+77,Los Angeles,Sparkling Wine,15817
+77,Los Angeles,Red Wine,1214
+77,Los Angeles,White Wine,9922
+76,Los Angeles,Sparkling Wine,16161
+76,Los Angeles,Red Wine,1409
+76,Los Angeles,White Wine,10101
+75,Los Angeles,Sparkling Wine,16534
+75,Los Angeles,Red Wine,1625
+75,Los Angeles,White Wine,10288
+74,Los Angeles,Sparkling Wine,16933
+74,Los Angeles,Red Wine,1835
+74,Los Angeles,White Wine,10495
+73,Los Angeles,Sparkling Wine,17320
+73,Los Angeles,Red Wine,2051
+73,Los Angeles,White Wine,10684
+72,Los Angeles,Sparkling Wine,9711
+72,Los Angeles,Red Wine,2265
+72,Los Angeles,White Wine,10883
+71,Los Angeles,Sparkling Wine,10076
+71,Los Angeles,Red Wine,2481
+71,Los Angeles,White Wine,11076
+70,Los Angeles,Sparkling Wine,10415
+70,Los Angeles,Red Wine,2655
+70,Los Angeles,White Wine,11258
+69,Los Angeles,Sparkling Wine,10764
+69,Los Angeles,Red Wine,2850
+69,Los Angeles,White Wine,11444
+68,Los Angeles,Sparkling Wine,11103
+68,Los Angeles,Red Wine,3039
+68,Los Angeles,White Wine,11623
+67,Los Angeles,Sparkling Wine,11439
+67,Los Angeles,Red Wine,3232
+67,Los Angeles,White Wine,11793
+66,Los Angeles,Sparkling Wine,11755
+66,Los Angeles,Red Wine,3427
+66,Los Angeles,White Wine,11959
+65,Los Angeles,Sparkling Wine,12101
+65,Los Angeles,Red Wine,3616
+65,Los Angeles,White Wine,12125
+64,Los Angeles,Sparkling Wine,12427
+64,Los Angeles,Red Wine,3805
+64,Los Angeles,White Wine,12295
+63,Los Angeles,Sparkling Wine,7605
+63,Los Angeles,Red Wine,3918
+63,Los Angeles,White Wine,7379
+62,Los Angeles,Sparkling Wine,7818
+62,Los Angeles,Red Wine,4034
+62,Los Angeles,White Wine,7468
+61,Los Angeles,Red Wine,4146
+61,Los Angeles,White Wine,7580
+60,Los Angeles,Red Wine,4265
+60,Los Angeles,White Wine,7683
+59,Los Angeles,Red Wine,4353
+59,Los Angeles,White Wine,7802
+58,Los Angeles,Red Wine,4474
+58,Los Angeles,White Wine,7897
+57,Los Angeles,Red Wine,4753
+57,Los Angeles,White Wine,8206
+56,Los Angeles,Red Wine,5003
+56,Los Angeles,White Wine,8410
+55,Los Angeles,Red Wine,5232
+55,Los Angeles,White Wine,8663
+54,Los Angeles,Red Wine,5462
+54,Los Angeles,White Wine,8916
+53,Los Angeles,Red Wine,5572
+53,Los Angeles,White Wine,9007
+52,Los Angeles,Red Wine,5699
+52,Los Angeles,White Wine,9109
+51,Los Angeles,Red Wine,5794
+51,Los Angeles,White Wine,9228
+50,Los Angeles,Red Wine,5906
+50,Los Angeles,White Wine,9317
+49,Los Angeles,Red Wine,6051
+49,Los Angeles,White Wine,9472
+48,Los Angeles,Red Wine,6198
+48,Los Angeles,White Wine,9621
+47,Los Angeles,Red Wine,6366
+47,Los Angeles,White Wine,9766
+46,Los Angeles,Red Wine,6619
+45,Los Angeles,Sparkling Wine,334
+45,Los Angeles,Red Wine,12866
+44,Los Angeles,Sparkling Wine,818
+44,Los Angeles,Red Wine,13118
+43,Los Angeles,Sparkling Wine,1298
+43,Los Angeles,Red Wine,13391
+42,Los Angeles,Sparkling Wine,1792
+42,Los Angeles,Red Wine,13667
+41,Los Angeles,Sparkling Wine,2239
+41,Los Angeles,Red Wine,13919
+40,Los Angeles,Sparkling Wine,2719
+40,Los Angeles,Red Wine,14166
+39,Los Angeles,Sparkling Wine,3175
+39,Los Angeles,Red Wine,14437
+38,Los Angeles,Sparkling Wine,3641
+38,Los Angeles,Red Wine,14378
+37,Los Angeles,Sparkling Wine,6084
+37,Los Angeles,Red Wine,15747
+36,Los Angeles,Sparkling Wine,8567
+36,Los Angeles,Red Wine,17285
+36,Los Angeles,White Wine,0
+35,Los Angeles,Sparkling Wine,9100
+35,Los Angeles,Red Wine,17575
+35,Los Angeles,White Wine,0
+34,Los Angeles,Sparkling Wine,9597
+34,Los Angeles,Red Wine,17874
+34,Los Angeles,White Wine,29226
+33,Los Angeles,Sparkling Wine,10100
+33,Los Angeles,Red Wine,18150
+33,Los Angeles,White Wine,29483
+32,Los Angeles,Sparkling Wine,10618
+32,Los Angeles,Red Wine,18437
+32,Los Angeles,White Wine,29753
+31,Los Angeles,Sparkling Wine,11132
+31,Los Angeles,Red Wine,8699
+30,Los Angeles,Sparkling Wine,11636
+30,Los Angeles,Red Wine,8986
+29,Los Angeles,Sparkling Wine,12115
+29,Los Angeles,Red Wine,9280
+28,Los Angeles,Sparkling Wine,12584
+28,Los Angeles,Red Wine,9546
+27,Los Angeles,Sparkling Wine,8063
+27,Los Angeles,Red Wine,9832
+26,Los Angeles,Sparkling Wine,8781
+26,Los Angeles,Red Wine,10265
+25,Los Angeles,Sparkling Wine,9484
+25,Los Angeles,Red Wine,10669
+24,Los Angeles,Sparkling Wine,10320
+24,Los Angeles,Red Wine,11120
+23,Los Angeles,Sparkling Wine,11114
+23,Los Angeles,Red Wine,11553
+12,Los Angeles,White Wine,408
+11,Los Angeles,Red Wine,2610
+11,Los Angeles,White Wine,3554
+10,Los Angeles,Sparkling Wine,914
+10,Los Angeles,Red Wine,5825
+10,Los Angeles,White Wine,6353
+9,Los Angeles,Sparkling Wine,6304
+9,Los Angeles,Red Wine,8756
+9,Los Angeles,White Wine,9093
+8,Los Angeles,Sparkling Wine,7083
+8,Los Angeles,Red Wine,9220
+8,Los Angeles,White Wine,9485
+7,Los Angeles,Sparkling Wine,7845
+7,Los Angeles,Red Wine,9643
+7,Los Angeles,White Wine,9898
+6,Los Angeles,Sparkling Wine,8705
+6,Los Angeles,Red Wine,10120
+6,Los Angeles,White Wine,10336
+5,Los Angeles,Sparkling Wine,9524
+5,Los Angeles,Red Wine,10570
+5,Los Angeles,White Wine,10753
+4,Los Angeles,Sparkling Wine,10351
+4,Los Angeles,Red Wine,11047
+4,Los Angeles,White Wine,11182
+3,Los Angeles,Sparkling Wine,11162
+3,Los Angeles,Red Wine,11529
+3,Los Angeles,White Wine,11616
+90,Miami,Sparkling Wine,6953
+90,Miami,Red Wine,9111
+90,Miami,White Wine,9069
+89,Miami,Sparkling Wine,6995
+89,Miami,Red Wine,9155
+89,Miami,White Wine,9113
+88,Miami,Sparkling Wine,7034
+88,Miami,Red Wine,9194
+88,Miami,White Wine,9152
+87,Miami,Sparkling Wine,7071
+87,Miami,Red Wine,9236
+87,Miami,White Wine,9192
+86,Miami,Sparkling Wine,7109
+86,Miami,Red Wine,9273
+86,Miami,White Wine,9229
+85,Miami,Sparkling Wine,7145
+85,Miami,Red Wine,9307
+85,Miami,White Wine,9267
+84,Miami,Sparkling Wine,7181
+84,Miami,Red Wine,9342
+84,Miami,White Wine,9302
+83,Miami,Sparkling Wine,7218
+83,Miami,Red Wine,9377
+83,Miami,White Wine,9340
+82,Miami,Sparkling Wine,7253
+82,Miami,Red Wine,9414
+82,Miami,White Wine,9378
+81,Miami,Sparkling Wine,7407
+81,Miami,Red Wine,9565
+81,Miami,White Wine,9520
+80,Miami,Sparkling Wine,7544
+80,Miami,Red Wine,9701
+80,Miami,White Wine,9654
+79,Miami,Sparkling Wine,7677
+79,Miami,Red Wine,9831
+79,Miami,White Wine,9799
+78,Miami,Sparkling Wine,7810
+78,Miami,Red Wine,9973
+78,Miami,White Wine,9943
+77,Miami,Sparkling Wine,7953
+77,Miami,Red Wine,10111
+77,Miami,White Wine,10078
+76,Miami,Sparkling Wine,7987
+76,Miami,Red Wine,10144
+76,Miami,White Wine,10112
+75,Miami,Sparkling Wine,8022
+75,Miami,Red Wine,10175
+75,Miami,White Wine,10147
+74,Miami,Sparkling Wine,8055
+74,Miami,Red Wine,10208
+74,Miami,White Wine,10183
+73,Miami,Sparkling Wine,3087
+73,Miami,Red Wine,5240
+73,Miami,White Wine,5218
+72,Miami,Sparkling Wine,3123
+72,Miami,Red Wine,5272
+72,Miami,White Wine,5251
+71,Miami,Sparkling Wine,3155
+71,Miami,Red Wine,5303
+71,Miami,White Wine,5285
+70,Miami,Sparkling Wine,3187
+70,Miami,Red Wine,5331
+70,Miami,White Wine,5314
+69,Miami,Sparkling Wine,3216
+69,Miami,Red Wine,5363
+69,Miami,White Wine,5345
+68,Miami,Sparkling Wine,3247
+68,Miami,Red Wine,5393
+68,Miami,White Wine,5377
+67,Miami,Sparkling Wine,3277
+67,Miami,Red Wine,5423
+67,Miami,White Wine,5409
+66,Miami,Sparkling Wine,3306
+66,Miami,Red Wine,5451
+66,Miami,White Wine,5441
+65,Miami,Sparkling Wine,3335
+65,Miami,Red Wine,5479
+65,Miami,White Wine,5472
+64,Miami,Sparkling Wine,3365
+64,Miami,Red Wine,5508
+64,Miami,White Wine,5502
+63,Miami,Sparkling Wine,3386
+63,Miami,Red Wine,5524
+63,Miami,White Wine,5520
+62,Miami,Sparkling Wine,3408
+62,Miami,Red Wine,5542
+62,Miami,White Wine,5540
+61,Miami,Sparkling Wine,3425
+61,Miami,Red Wine,5562
+61,Miami,White Wine,5562
+60,Miami,Sparkling Wine,3443
+60,Miami,Red Wine,5581
+60,Miami,White Wine,5584
+59,Miami,Sparkling Wine,3458
+59,Miami,Red Wine,5598
+59,Miami,White Wine,5603
+58,Miami,Sparkling Wine,3474
+58,Miami,Red Wine,5619
+58,Miami,White Wine,5622
+57,Miami,Sparkling Wine,3532
+57,Miami,Red Wine,5667
+57,Miami,White Wine,5670
+56,Miami,Sparkling Wine,3572
+56,Miami,Red Wine,5702
+56,Miami,White Wine,5711
+55,Miami,Sparkling Wine,3624
+55,Miami,Red Wine,5742
+55,Miami,White Wine,5762
+54,Miami,Sparkling Wine,3671
+54,Miami,Red Wine,5781
+54,Miami,White Wine,5809
+53,Miami,Sparkling Wine,3685
+53,Miami,Red Wine,5801
+53,Miami,White Wine,5830
+52,Miami,Sparkling Wine,3706
+52,Miami,Red Wine,5818
+52,Miami,White Wine,5849
+51,Miami,Sparkling Wine,3727
+51,Miami,Red Wine,5836
+51,Miami,White Wine,5865
+50,Miami,Sparkling Wine,3747
+50,Miami,Red Wine,5853
+50,Miami,White Wine,5885
+49,Miami,Sparkling Wine,3768
+49,Miami,Red Wine,5872
+49,Miami,White Wine,5901
+48,Miami,Sparkling Wine,3788
+48,Miami,Red Wine,5889
+48,Miami,White Wine,5919
+47,Miami,Sparkling Wine,3804
+47,Miami,Red Wine,5908
+47,Miami,White Wine,5937
+46,Miami,Sparkling Wine,3833
+46,Miami,Red Wine,5940
+46,Miami,White Wine,5965
+45,Miami,Sparkling Wine,3863
+45,Miami,Red Wine,5972
+45,Miami,White Wine,5993
+44,Miami,Sparkling Wine,517
+44,Miami,Red Wine,6003
+44,Miami,White Wine,6023
+43,Miami,Sparkling Wine,548
+43,Miami,Red Wine,6033
+43,Miami,White Wine,6052
+42,Miami,Sparkling Wine,578
+42,Miami,Red Wine,6065
+42,Miami,White Wine,6084
+41,Miami,Sparkling Wine,608
+41,Miami,Red Wine,6096
+41,Miami,White Wine,6115
+40,Miami,Sparkling Wine,639
+40,Miami,Red Wine,6127
+40,Miami,White Wine,6145
+39,Miami,Sparkling Wine,670
+39,Miami,Red Wine,6156
+39,Miami,White Wine,6177
+38,Miami,Sparkling Wine,825
+38,Miami,Red Wine,6317
+38,Miami,White Wine,6319
+37,Miami,Sparkling Wine,977
+37,Miami,Red Wine,6462
+37,Miami,White Wine,6465
+36,Miami,Sparkling Wine,1139
+36,Miami,Red Wine,6632
+36,Miami,White Wine,6636
+35,Miami,Sparkling Wine,1173
+35,Miami,Red Wine,6664
+35,Miami,White Wine,6672
+34,Miami,Sparkling Wine,1206
+34,Miami,Red Wine,6697
+34,Miami,White Wine,6705
+33,Miami,Sparkling Wine,1242
+33,Miami,Red Wine,6731
+33,Miami,White Wine,6738
+32,Miami,Sparkling Wine,1276
+32,Miami,Red Wine,6764
+32,Miami,White Wine,6772
+31,Miami,Sparkling Wine,1310
+31,Miami,Red Wine,6795
+31,Miami,White Wine,6804
+30,Miami,Sparkling Wine,6843
+30,Miami,Red Wine,6829
+30,Miami,White Wine,6835
+29,Miami,Sparkling Wine,6877
+29,Miami,Red Wine,6863
+29,Miami,White Wine,6869
+28,Miami,Sparkling Wine,6911
+28,Miami,Red Wine,6895
+28,Miami,White Wine,6899
+27,Miami,Sparkling Wine,6942
+27,Miami,Red Wine,6925
+27,Miami,White Wine,6930
+26,Miami,Sparkling Wine,6976
+26,Miami,Red Wine,6956
+26,Miami,White Wine,6961
+25,Miami,Sparkling Wine,7006
+25,Miami,Red Wine,6990
+25,Miami,White Wine,6993
+24,Miami,Sparkling Wine,7042
+24,Miami,Red Wine,7026
+24,Miami,White Wine,7027
+23,Miami,Sparkling Wine,7078
+23,Miami,Red Wine,7062
+23,Miami,White Wine,7062
+22,Miami,Sparkling Wine,7115
+22,Miami,Red Wine,7098
+22,Miami,White Wine,7095
+21,Miami,Sparkling Wine,7153
+21,Miami,Red Wine,7133
+21,Miami,White Wine,7128
+20,Miami,Sparkling Wine,7191
+20,Miami,Red Wine,7170
+20,Miami,White Wine,7164
+19,Miami,Sparkling Wine,7226
+19,Miami,Red Wine,7204
+19,Miami,White Wine,7201
+18,Miami,Sparkling Wine,7264
+18,Miami,Red Wine,7240
+18,Miami,White Wine,7236
+17,Miami,Sparkling Wine,7300
+17,Miami,Red Wine,7277
+17,Miami,White Wine,7272
+16,Miami,Sparkling Wine,7336
+16,Miami,Red Wine,7310
+16,Miami,White Wine,7308
+15,Miami,Sparkling Wine,7410
+15,Miami,Red Wine,7383
+15,Miami,White Wine,7382
+14,Miami,Sparkling Wine,7520
+14,Miami,Red Wine,7485
+14,Miami,White Wine,7485
+13,Miami,Sparkling Wine,8304
+13,Miami,Red Wine,8173
+13,Miami,White Wine,8247
+12,Miami,Sparkling Wine,9027
+12,Miami,Red Wine,8965
+12,Miami,White Wine,9002
+11,Miami,Sparkling Wine,9765
+11,Miami,Red Wine,9750
+11,Miami,White Wine,9779
+10,Miami,Sparkling Wine,10481
+10,Miami,Red Wine,10505
+10,Miami,White Wine,10519
+9,Miami,Sparkling Wine,11265
+9,Miami,Red Wine,11290
+9,Miami,White Wine,11281
+8,Miami,Sparkling Wine,11419
+8,Miami,Red Wine,11432
+8,Miami,White Wine,11426
+7,Miami,Sparkling Wine,11557
+7,Miami,Red Wine,11576
+7,Miami,White Wine,11563
+6,Miami,Sparkling Wine,11705
+6,Miami,Red Wine,11718
+6,Miami,White Wine,11710
+5,Miami,Sparkling Wine,11851
+5,Miami,Red Wine,11867
+5,Miami,White Wine,11859
+90,New York,Sparkling Wine,9348
+90,New York,Red Wine,1583
+90,New York,White Wine,3064
+89,New York,Sparkling Wine,9888
+89,New York,Red Wine,1932
+89,New York,White Wine,3383
+88,New York,Sparkling Wine,10429
+88,New York,Red Wine,2266
+88,New York,White Wine,3690
+87,New York,Sparkling Wine,11013
+87,New York,Red Wine,2590
+87,New York,White Wine,3997
+86,New York,Sparkling Wine,11513
+86,New York,Red Wine,2885
+86,New York,White Wine,4272
+85,New York,Red Wine,3183
+85,New York,White Wine,4555
+84,New York,Red Wine,3486
+84,New York,White Wine,4838
+83,New York,Red Wine,3771
+83,New York,White Wine,5115
+82,New York,Red Wine,4071
+82,New York,White Wine,5411
+81,New York,Red Wine,5335
+81,New York,White Wine,6512
+80,New York,Red Wine,6495
+80,New York,White Wine,7568
+79,New York,Sparkling Wine,81
+79,New York,Red Wine,7545
+79,New York,White Wine,8582
+78,New York,Sparkling Wine,2099
+78,New York,Red Wine,3580
+78,New York,White Wine,5625
+77,New York,Sparkling Wine,3913
+77,New York,Red Wine,4747
+77,New York,White Wine,6646
+76,New York,Sparkling Wine,4380
+76,New York,White Wine,1914
+75,New York,Sparkling Wine,4860
+75,New York,White Wine,2177
+74,New York,Sparkling Wine,5355
+74,New York,Red Wine,145
+74,New York,White Wine,2445
+73,New York,Sparkling Wine,5853
+73,New York,Red Wine,427
+73,New York,White Wine,2698
+72,New York,Sparkling Wine,6328
+72,New York,Red Wine,687
+72,New York,White Wine,2958
+71,New York,Sparkling Wine,6841
+71,New York,Red Wine,980
+71,New York,White Wine,3203
+70,New York,Sparkling Wine,7268
+70,New York,Red Wine,1238
+70,New York,White Wine,3449
+69,New York,Sparkling Wine,7700
+69,New York,Red Wine,1476
+69,New York,White Wine,3689
+68,New York,Sparkling Wine,8136
+68,New York,Red Wine,1743
+68,New York,White Wine,3917
+67,New York,Sparkling Wine,8546
+67,New York,Red Wine,2000
+67,New York,White Wine,4133
+66,New York,Sparkling Wine,9004
+66,New York,Red Wine,2252
+66,New York,White Wine,4370
+65,New York,Sparkling Wine,9423
+65,New York,Red Wine,2507
+65,New York,White Wine,4605
+64,New York,Sparkling Wine,9881
+64,New York,Red Wine,2757
+64,New York,White Wine,4833
+63,New York,Sparkling Wine,10126
+63,New York,Red Wine,2918
+63,New York,White Wine,4951
+62,New York,Sparkling Wine,10398
+62,New York,Red Wine,3096
+62,New York,White Wine,5108
+61,New York,Sparkling Wine,10693
+61,New York,Red Wine,3257
+61,New York,White Wine,5246
+60,New York,Sparkling Wine,10971
+60,New York,Red Wine,3393
+60,New York,White Wine,5382
+59,New York,Sparkling Wine,11252
+59,New York,Red Wine,3543
+59,New York,White Wine,5508
+58,New York,Sparkling Wine,11523
+58,New York,Red Wine,3680
+58,New York,White Wine,5636
+57,New York,Sparkling Wine,12378
+57,New York,Red Wine,4076
+57,New York,White Wine,6000
+56,New York,Sparkling Wine,12853
+56,New York,Red Wine,4409
+56,New York,White Wine,6277
+55,New York,Sparkling Wine,13466
+55,New York,Red Wine,4732
+55,New York,White Wine,6675
+54,New York,Sparkling Wine,14070
+54,New York,Red Wine,5030
+54,New York,White Wine,6950
+53,New York,Sparkling Wine,14321
+53,New York,Red Wine,5184
+53,New York,White Wine,7105
+52,New York,Sparkling Wine,6614
+52,New York,Red Wine,5310
+52,New York,White Wine,7243
+51,New York,Sparkling Wine,6886
+51,New York,Red Wine,5462
+51,New York,White Wine,7370
+50,New York,Sparkling Wine,7167
+50,New York,Red Wine,5615
+50,New York,White Wine,7495
+49,New York,Sparkling Wine,7406
+49,New York,Red Wine,5782
+49,New York,White Wine,7622
+48,New York,Sparkling Wine,7683
+48,New York,Red Wine,5912
+48,New York,White Wine,7782
+47,New York,Red Wine,6076
+47,New York,White Wine,2945
+46,New York,Red Wine,6328
+46,New York,White Wine,3203
+45,New York,Red Wine,12603
+45,New York,White Wine,3464
+44,New York,Red Wine,12864
+44,New York,White Wine,3722
+43,New York,Red Wine,13125
+43,New York,White Wine,3956
+42,New York,Red Wine,13386
+42,New York,White Wine,4188
+41,New York,Red Wine,13663
+41,New York,White Wine,4420
+40,New York,Red Wine,13922
+40,New York,White Wine,4652
+39,New York,Red Wine,14183
+39,New York,White Wine,4913
+38,New York,Red Wine,15489
+38,New York,White Wine,6071
+37,New York,Red Wine,16754
+37,New York,White Wine,7229
+36,New York,Sparkling Wine,492
+36,New York,Red Wine,18129
+36,New York,White Wine,8517
+35,New York,Sparkling Wine,954
+35,New York,Red Wine,13424
+35,New York,White Wine,3793
+34,New York,Sparkling Wine,1456
+34,New York,Red Wine,13693
+34,New York,White Wine,4043
+33,New York,Sparkling Wine,1963
+33,New York,Red Wine,13999
+33,New York,White Wine,4314
+32,New York,Sparkling Wine,2464
+32,New York,Red Wine,14282
+32,New York,White Wine,4584
+31,New York,Sparkling Wine,2930
+31,New York,Red Wine,14554
+31,New York,White Wine,4844
+30,New York,Sparkling Wine,3423
+30,New York,Red Wine,14817
+30,New York,White Wine,5091
+29,New York,Sparkling Wine,3910
+29,New York,Red Wine,15085
+29,New York,White Wine,5331
+28,New York,Sparkling Wine,4373
+28,New York,Red Wine,15364
+28,New York,White Wine,5599
+27,New York,Sparkling Wine,4884
+27,New York,Red Wine,15621
+27,New York,White Wine,5852
+26,New York,Sparkling Wine,19358
+26,New York,Red Wine,15914
+26,New York,White Wine,6089
+25,New York,Sparkling Wine,19801
+25,New York,Red Wine,16200
+25,New York,White Wine,6350
+24,New York,Sparkling Wine,20351
+24,New York,Red Wine,16487
+24,New York,White Wine,6645
+23,New York,Sparkling Wine,20900
+23,New York,Red Wine,16777
+23,New York,White Wine,6914
+22,New York,Sparkling Wine,21449
+22,New York,Red Wine,17070
+22,New York,White Wine,7183
+21,New York,Sparkling Wine,9946
+21,New York,Red Wine,7382
+21,New York,White Wine,7469
+20,New York,Sparkling Wine,10501
+20,New York,Red Wine,7693
+20,New York,White Wine,7731
+19,New York,Sparkling Wine,2996
+18,New York,Sparkling Wine,3491
+17,New York,Sparkling Wine,4025
+16,New York,Sparkling Wine,4516
+13,New York,Red Wine,1019
+13,New York,White Wine,1847
+12,New York,Red Wine,3169
+12,New York,White Wine,3731
+11,New York,Sparkling Wine,930
+11,New York,Red Wine,5360
+11,New York,White Wine,5712
+10,New York,Sparkling Wine,4179
+10,New York,Red Wine,7342
+10,New York,White Wine,7659
+9,New York,Sparkling Wine,7498
+9,New York,Red Wine,9303
+9,New York,White Wine,9455
+8,New York,Sparkling Wine,8157
+8,New York,Red Wine,9715
+8,New York,White Wine,9837
+7,New York,Sparkling Wine,8769
+7,New York,Red Wine,10088
+7,New York,White Wine,10172
+6,New York,Sparkling Wine,9467
+6,New York,Red Wine,10492
+6,New York,White Wine,10553
+5,New York,Sparkling Wine,10103
+5,New York,Red Wine,10869
+5,New York,White Wine,10923
+4,New York,Sparkling Wine,10719
+4,New York,Red Wine,11250
+4,New York,White Wine,11279
+3,New York,Sparkling Wine,11379
+3,New York,Red Wine,11628
+3,New York,White Wine,11651
+90,San Francisco,Sparkling Wine,3880
+90,San Francisco,Red Wine,8372
+90,San Francisco,White Wine,6432
+89,San Francisco,Sparkling Wine,3971
+89,San Francisco,Red Wine,8434
+89,San Francisco,White Wine,6495
+88,San Francisco,Sparkling Wine,4057
+88,San Francisco,Red Wine,8486
+88,San Francisco,White Wine,6549
+87,San Francisco,Sparkling Wine,4141
+87,San Francisco,Red Wine,8542
+87,San Francisco,White Wine,6602
+86,San Francisco,Sparkling Wine,4220
+86,San Francisco,Red Wine,8596
+86,San Francisco,White Wine,6649
+85,San Francisco,Sparkling Wine,4295
+85,San Francisco,Red Wine,8649
+85,San Francisco,White Wine,6698
+84,San Francisco,Sparkling Wine,4372
+84,San Francisco,Red Wine,8700
+84,San Francisco,White Wine,6749
+83,San Francisco,Sparkling Wine,4445
+83,San Francisco,Red Wine,8748
+83,San Francisco,White Wine,6800
+82,San Francisco,Sparkling Wine,4541
+82,San Francisco,Red Wine,8812
+82,San Francisco,White Wine,6865
+81,San Francisco,Sparkling Wine,4964
+81,San Francisco,Red Wine,9083
+81,San Francisco,White Wine,7137
+80,San Francisco,Sparkling Wine,5351
+80,San Francisco,Red Wine,9346
+80,San Francisco,White Wine,7393
+79,San Francisco,Sparkling Wine,5755
+79,San Francisco,Red Wine,9601
+79,San Francisco,White Wine,7625
+78,San Francisco,Sparkling Wine,6137
+78,San Francisco,Red Wine,9849
+78,San Francisco,White Wine,7854
+77,San Francisco,Sparkling Wine,6494
+77,San Francisco,Red Wine,10095
+77,San Francisco,White Wine,8086
+76,San Francisco,Sparkling Wine,6590
+76,San Francisco,Red Wine,10153
+76,San Francisco,White Wine,8148
+75,San Francisco,Sparkling Wine,6677
+75,San Francisco,Red Wine,10218
+75,San Francisco,White Wine,8211
+74,San Francisco,Sparkling Wine,6776
+74,San Francisco,Red Wine,10280
+74,San Francisco,White Wine,8268
+73,San Francisco,Sparkling Wine,6867
+73,San Francisco,Red Wine,10337
+73,San Francisco,White Wine,8329
+72,San Francisco,Sparkling Wine,6964
+72,San Francisco,Red Wine,10402
+72,San Francisco,White Wine,8394
+71,San Francisco,Sparkling Wine,7064
+71,San Francisco,Red Wine,10464
+71,San Francisco,White Wine,8456
+70,San Francisco,Sparkling Wine,7148
+70,San Francisco,Red Wine,10516
+70,San Francisco,White Wine,8510
+69,San Francisco,Sparkling Wine,7237
+69,San Francisco,Red Wine,10568
+69,San Francisco,White Wine,8562
+68,San Francisco,Sparkling Wine,7325
+68,San Francisco,Red Wine,10626
+68,San Francisco,White Wine,8619
+67,San Francisco,Sparkling Wine,7406
+67,San Francisco,Red Wine,10685
+67,San Francisco,White Wine,8675
+66,San Francisco,Sparkling Wine,7490
+66,San Francisco,Red Wine,10740
+66,San Francisco,White Wine,8731
+65,San Francisco,Sparkling Wine,7578
+65,San Francisco,Red Wine,10798
+65,San Francisco,White Wine,8789
+64,San Francisco,Sparkling Wine,7659
+64,San Francisco,Red Wine,10849
+64,San Francisco,White Wine,8843
+63,San Francisco,Sparkling Wine,7714
+63,San Francisco,Red Wine,10876
+63,San Francisco,White Wine,8870
+62,San Francisco,Sparkling Wine,7765
+62,San Francisco,Red Wine,10907
+62,San Francisco,White Wine,8901
+61,San Francisco,Sparkling Wine,7817
+61,San Francisco,Red Wine,10942
+61,San Francisco,White Wine,8936
+60,San Francisco,Sparkling Wine,7868
+60,San Francisco,Red Wine,10968
+60,San Francisco,White Wine,8967
+59,San Francisco,Sparkling Wine,7915
+59,San Francisco,Red Wine,10999
+59,San Francisco,White Wine,8993
+58,San Francisco,Sparkling Wine,7965
+58,San Francisco,Red Wine,11036
+58,San Francisco,White Wine,9030
+57,San Francisco,Sparkling Wine,8098
+57,San Francisco,Red Wine,11121
+57,San Francisco,White Wine,9115
+56,San Francisco,Sparkling Wine,8226
+56,San Francisco,Red Wine,11204
+56,San Francisco,White Wine,9199
+55,San Francisco,Sparkling Wine,8381
+55,San Francisco,Red Wine,11292
+55,San Francisco,White Wine,9287
+54,San Francisco,Sparkling Wine,8487
+54,San Francisco,Red Wine,11362
+54,San Francisco,White Wine,9360
+53,San Francisco,Sparkling Wine,8533
+53,San Francisco,Red Wine,11398
+53,San Francisco,White Wine,9391
+52,San Francisco,Sparkling Wine,8583
+52,San Francisco,Red Wine,11432
+52,San Francisco,White Wine,9423
+51,San Francisco,Sparkling Wine,8639
+51,San Francisco,Red Wine,11465
+51,San Francisco,White Wine,9461
+50,San Francisco,Sparkling Wine,8703
+50,San Francisco,Red Wine,11495
+50,San Francisco,White Wine,9492
+49,San Francisco,Sparkling Wine,8750
+49,San Francisco,Red Wine,11534
+49,San Francisco,White Wine,9529
+48,San Francisco,Sparkling Wine,8807
+48,San Francisco,Red Wine,11564
+48,San Francisco,White Wine,9564
+47,San Francisco,Sparkling Wine,8858
+47,San Francisco,Red Wine,11606
+47,San Francisco,White Wine,9607
+46,San Francisco,Sparkling Wine,8951
+46,San Francisco,Red Wine,11664
+46,San Francisco,White Wine,9663
+45,San Francisco,Sparkling Wine,9038
+45,San Francisco,Red Wine,11723
+45,San Francisco,White Wine,9721
+44,San Francisco,Sparkling Wine,9127
+44,San Francisco,Red Wine,11780
+44,San Francisco,White Wine,9780
+43,San Francisco,Sparkling Wine,9214
+43,San Francisco,Red Wine,11836
+43,San Francisco,White Wine,9839
+42,San Francisco,Sparkling Wine,9309
+42,San Francisco,Red Wine,11898
+42,San Francisco,White Wine,9902
+41,San Francisco,Sparkling Wine,9401
+41,San Francisco,Red Wine,11955
+41,San Francisco,White Wine,9965
+40,San Francisco,Sparkling Wine,9497
+40,San Francisco,Red Wine,12010
+40,San Francisco,White Wine,10024
+39,San Francisco,Sparkling Wine,9583
+39,San Francisco,Red Wine,12066
+39,San Francisco,White Wine,10081
+38,San Francisco,Sparkling Wine,10021
+38,San Francisco,Red Wine,12356
+38,San Francisco,White Wine,10394
+37,San Francisco,Sparkling Wine,10496
+37,San Francisco,Red Wine,12652
+37,San Francisco,White Wine,10710
+36,San Francisco,Sparkling Wine,11017
+36,San Francisco,Red Wine,12987
+36,San Francisco,White Wine,11047
+35,San Francisco,Sparkling Wine,11125
+35,San Francisco,Red Wine,13049
+35,San Francisco,White Wine,11117
+34,San Francisco,Sparkling Wine,11224
+34,San Francisco,Red Wine,13117
+34,San Francisco,White Wine,13182
+33,San Francisco,Sparkling Wine,11328
+33,San Francisco,Red Wine,13180
+33,San Francisco,White Wine,13244
+32,San Francisco,Sparkling Wine,11433
+32,San Francisco,Red Wine,13247
+32,San Francisco,White Wine,13308
+31,San Francisco,Sparkling Wine,11525
+31,San Francisco,Red Wine,13308
+31,San Francisco,White Wine,13366
+30,San Francisco,Sparkling Wine,11625
+30,San Francisco,Red Wine,13374
+30,San Francisco,White Wine,13431
+29,San Francisco,Sparkling Wine,11725
+29,San Francisco,Red Wine,13437
+29,San Francisco,White Wine,13496
+28,San Francisco,Sparkling Wine,6824
+28,San Francisco,Red Wine,8500
+28,San Francisco,White Wine,8559
+27,San Francisco,Sparkling Wine,6913
+27,San Francisco,Red Wine,8566
+27,San Francisco,White Wine,8621
+26,San Francisco,Sparkling Wine,7007
+26,San Francisco,Red Wine,8634
+26,San Francisco,White Wine,8683
+25,San Francisco,Sparkling Wine,7096
+25,San Francisco,Red Wine,8693
+25,San Francisco,White Wine,8741
+24,San Francisco,Sparkling Wine,7207
+24,San Francisco,Red Wine,8764
+24,San Francisco,White Wine,8807
+23,San Francisco,Sparkling Wine,7321
+23,San Francisco,Red Wine,8835
+23,San Francisco,White Wine,8875
+22,San Francisco,Sparkling Wine,7422
+22,San Francisco,Red Wine,8910
+22,San Francisco,White Wine,8947
+21,San Francisco,Sparkling Wine,7520
+21,San Francisco,Red Wine,8985
+21,San Francisco,White Wine,9020
+20,San Francisco,Sparkling Wine,7625
+20,San Francisco,Red Wine,9060
+20,San Francisco,White Wine,9088
+19,San Francisco,Sparkling Wine,7731
+19,San Francisco,Red Wine,9133
+19,San Francisco,White Wine,9151
+18,San Francisco,Sparkling Wine,7842
+18,San Francisco,Red Wine,9200
+18,San Francisco,White Wine,9219
+17,San Francisco,Sparkling Wine,7949
+17,San Francisco,Red Wine,9272
+17,San Francisco,White Wine,9286
+16,San Francisco,Sparkling Wine,8053
+16,San Francisco,Red Wine,9341
+16,San Francisco,White Wine,9351
+15,San Francisco,Sparkling Wine,8156
+15,San Francisco,Red Wine,9408
+15,San Francisco,White Wine,9417
+14,San Francisco,Sparkling Wine,8256
+14,San Francisco,Red Wine,9479
+14,San Francisco,White Wine,9486
+13,San Francisco,Sparkling Wine,8939
+13,San Francisco,Red Wine,9974
+13,San Francisco,White Wine,9992
+12,San Francisco,Sparkling Wine,9666
+12,San Francisco,Red Wine,10501
+12,San Francisco,White Wine,10452
+11,San Francisco,Sparkling Wine,10397
+11,San Francisco,Red Wine,10961
+11,San Francisco,White Wine,10963
+10,San Francisco,Sparkling Wine,11172
+10,San Francisco,Red Wine,11471
+10,San Francisco,White Wine,11435
+9,San Francisco,Sparkling Wine,11895
+9,San Francisco,Red Wine,11931
+9,San Francisco,White Wine,11929
+90,"Washington, D.C.",Sparkling Wine,3530
+90,"Washington, D.C.",Red Wine,6006
+90,"Washington, D.C.",White Wine,5810
+89,"Washington, D.C.",Sparkling Wine,3597
+89,"Washington, D.C.",Red Wine,6081
+89,"Washington, D.C.",White Wine,5866
+88,"Washington, D.C.",Sparkling Wine,3665
+88,"Washington, D.C.",Red Wine,6143
+88,"Washington, D.C.",White Wine,5918
+87,"Washington, D.C.",Sparkling Wine,3726
+87,"Washington, D.C.",Red Wine,6204
+87,"Washington, D.C.",White Wine,5972
+86,"Washington, D.C.",Sparkling Wine,3786
+86,"Washington, D.C.",Red Wine,6265
+86,"Washington, D.C.",White Wine,6020
+85,"Washington, D.C.",Sparkling Wine,3848
+85,"Washington, D.C.",Red Wine,6325
+85,"Washington, D.C.",White Wine,6067
+84,"Washington, D.C.",Sparkling Wine,3902
+84,"Washington, D.C.",Red Wine,6383
+84,"Washington, D.C.",White Wine,6119
+83,"Washington, D.C.",Sparkling Wine,3956
+83,"Washington, D.C.",Red Wine,6443
+83,"Washington, D.C.",White Wine,6168
+82,"Washington, D.C.",Sparkling Wine,4010
+82,"Washington, D.C.",Red Wine,6502
+82,"Washington, D.C.",White Wine,6220
+81,"Washington, D.C.",Sparkling Wine,4244
+81,"Washington, D.C.",Red Wine,6738
+81,"Washington, D.C.",White Wine,6419
+80,"Washington, D.C.",Sparkling Wine,4451
+80,"Washington, D.C.",Red Wine,6952
+80,"Washington, D.C.",White Wine,6614
+79,"Washington, D.C.",Sparkling Wine,4672
+79,"Washington, D.C.",Red Wine,7154
+79,"Washington, D.C.",White Wine,6791
+78,"Washington, D.C.",Sparkling Wine,4882
+78,"Washington, D.C.",Red Wine,7377
+78,"Washington, D.C.",White Wine,6988
+77,"Washington, D.C.",Sparkling Wine,5092
+77,"Washington, D.C.",Red Wine,7586
+77,"Washington, D.C.",White Wine,7161
+76,"Washington, D.C.",Sparkling Wine,5147
+76,"Washington, D.C.",Red Wine,7639
+76,"Washington, D.C.",White Wine,7209
+75,"Washington, D.C.",Sparkling Wine,5205
+75,"Washington, D.C.",Red Wine,7694
+75,"Washington, D.C.",White Wine,7257
+74,"Washington, D.C.",Sparkling Wine,5260
+74,"Washington, D.C.",Red Wine,7750
+74,"Washington, D.C.",White Wine,7302
+73,"Washington, D.C.",Sparkling Wine,5310
+73,"Washington, D.C.",Red Wine,7803
+73,"Washington, D.C.",White Wine,7347
+72,"Washington, D.C.",Sparkling Wine,5363
+72,"Washington, D.C.",Red Wine,7859
+72,"Washington, D.C.",White Wine,7394
+71,"Washington, D.C.",Sparkling Wine,5414
+71,"Washington, D.C.",Red Wine,7910
+71,"Washington, D.C.",White Wine,7441
+70,"Washington, D.C.",Sparkling Wine,5460
+70,"Washington, D.C.",Red Wine,7958
+70,"Washington, D.C.",White Wine,7483
+69,"Washington, D.C.",Sparkling Wine,5504
+69,"Washington, D.C.",Red Wine,8006
+69,"Washington, D.C.",White Wine,7521
+68,"Washington, D.C.",Sparkling Wine,5555
+68,"Washington, D.C.",Red Wine,8051
+68,"Washington, D.C.",White Wine,7565
+67,"Washington, D.C.",Sparkling Wine,5604
+67,"Washington, D.C.",Red Wine,8102
+67,"Washington, D.C.",White Wine,7605
+66,"Washington, D.C.",Sparkling Wine,5656
+66,"Washington, D.C.",Red Wine,8149
+66,"Washington, D.C.",White Wine,7650
+65,"Washington, D.C.",Sparkling Wine,5705
+65,"Washington, D.C.",Red Wine,8199
+65,"Washington, D.C.",White Wine,7690
+64,"Washington, D.C.",Sparkling Wine,5751
+64,"Washington, D.C.",Red Wine,8251
+64,"Washington, D.C.",White Wine,7729
+63,"Washington, D.C.",Sparkling Wine,5776
+63,"Washington, D.C.",Red Wine,8285
+63,"Washington, D.C.",White Wine,7752
+62,"Washington, D.C.",Sparkling Wine,5809
+62,"Washington, D.C.",Red Wine,8315
+62,"Washington, D.C.",White Wine,7778
+61,"Washington, D.C.",Sparkling Wine,5837
+61,"Washington, D.C.",Red Wine,8341
+61,"Washington, D.C.",White Wine,7802
+60,"Washington, D.C.",Sparkling Wine,5860
+60,"Washington, D.C.",Red Wine,8368
+60,"Washington, D.C.",White Wine,7828
+59,"Washington, D.C.",Sparkling Wine,5891
+59,"Washington, D.C.",Red Wine,8394
+59,"Washington, D.C.",White Wine,7855
+58,"Washington, D.C.",Sparkling Wine,5916
+58,"Washington, D.C.",Red Wine,8426
+58,"Washington, D.C.",White Wine,7882
+57,"Washington, D.C.",Sparkling Wine,6011
+57,"Washington, D.C.",Red Wine,8501
+57,"Washington, D.C.",White Wine,7947
+56,"Washington, D.C.",Sparkling Wine,6083
+56,"Washington, D.C.",Red Wine,8573
+56,"Washington, D.C.",White Wine,7993
+55,"Washington, D.C.",Sparkling Wine,6153
+55,"Washington, D.C.",Red Wine,8658
+55,"Washington, D.C.",White Wine,8051
+54,"Washington, D.C.",Sparkling Wine,6207
+54,"Washington, D.C.",Red Wine,8711
+54,"Washington, D.C.",White Wine,8120
+53,"Washington, D.C.",Sparkling Wine,6233
+53,"Washington, D.C.",Red Wine,8735
+53,"Washington, D.C.",White Wine,8144
+52,"Washington, D.C.",Sparkling Wine,6268
+52,"Washington, D.C.",Red Wine,8761
+52,"Washington, D.C.",White Wine,8169
+51,"Washington, D.C.",Sparkling Wine,6296
+51,"Washington, D.C.",Red Wine,8794
+51,"Washington, D.C.",White Wine,192
+50,"Washington, D.C.",Sparkling Wine,6321
+50,"Washington, D.C.",Red Wine,8824
+50,"Washington, D.C.",White Wine,214
+49,"Washington, D.C.",Sparkling Wine,6344
+49,"Washington, D.C.",Red Wine,8850
+49,"Washington, D.C.",White Wine,235
+48,"Washington, D.C.",Sparkling Wine,6374
+48,"Washington, D.C.",Red Wine,8879
+48,"Washington, D.C.",White Wine,261
+47,"Washington, D.C.",Sparkling Wine,6402
+47,"Washington, D.C.",Red Wine,8905
+47,"Washington, D.C.",White Wine,290
+46,"Washington, D.C.",Sparkling Wine,6449
+46,"Washington, D.C.",Red Wine,8956
+46,"Washington, D.C.",White Wine,335
+45,"Washington, D.C.",Sparkling Wine,6496
+45,"Washington, D.C.",Red Wine,12005
+45,"Washington, D.C.",White Wine,381
+44,"Washington, D.C.",Sparkling Wine,6545
+44,"Washington, D.C.",Red Wine,12058
+44,"Washington, D.C.",White Wine,427
+43,"Washington, D.C.",Sparkling Wine,6597
+43,"Washington, D.C.",Red Wine,12111
+43,"Washington, D.C.",White Wine,471
+42,"Washington, D.C.",Sparkling Wine,6650
+42,"Washington, D.C.",Red Wine,12163
+42,"Washington, D.C.",White Wine,517
+41,"Washington, D.C.",Sparkling Wine,6704
+41,"Washington, D.C.",Red Wine,12217
+41,"Washington, D.C.",White Wine,562
+40,"Washington, D.C.",Sparkling Wine,6753
+40,"Washington, D.C.",Red Wine,12271
+40,"Washington, D.C.",White Wine,605
+39,"Washington, D.C.",Sparkling Wine,6801
+39,"Washington, D.C.",Red Wine,12320
+39,"Washington, D.C.",White Wine,652
+38,"Washington, D.C.",Sparkling Wine,7065
+38,"Washington, D.C.",Red Wine,12593
+38,"Washington, D.C.",White Wine,885
+37,"Washington, D.C.",Sparkling Wine,7324
+37,"Washington, D.C.",Red Wine,12861
+37,"Washington, D.C.",White Wine,1095
+36,"Washington, D.C.",Sparkling Wine,2611
+36,"Washington, D.C.",Red Wine,13144
+36,"Washington, D.C.",White Wine,1343
+35,"Washington, D.C.",Sparkling Wine,2670
+35,"Washington, D.C.",Red Wine,13201
+35,"Washington, D.C.",White Wine,1393
+34,"Washington, D.C.",Sparkling Wine,2726
+34,"Washington, D.C.",Red Wine,13262
+34,"Washington, D.C.",White Wine,13443
+33,"Washington, D.C.",Sparkling Wine,2782
+33,"Washington, D.C.",Red Wine,13323
+33,"Washington, D.C.",White Wine,13493
+32,"Washington, D.C.",Sparkling Wine,2836
+32,"Washington, D.C.",Red Wine,13376
+32,"Washington, D.C.",White Wine,13545
+31,"Washington, D.C.",Sparkling Wine,2887
+31,"Washington, D.C.",Red Wine,13427
+31,"Washington, D.C.",White Wine,13591
+30,"Washington, D.C.",Sparkling Wine,2940
+30,"Washington, D.C.",Red Wine,13482
+30,"Washington, D.C.",White Wine,13635
+29,"Washington, D.C.",Sparkling Wine,2998
+29,"Washington, D.C.",Red Wine,13537
+29,"Washington, D.C.",White Wine,13683
+28,"Washington, D.C.",Sparkling Wine,3051
+28,"Washington, D.C.",Red Wine,13590
+28,"Washington, D.C.",White Wine,13728
+27,"Washington, D.C.",Sparkling Wine,3103
+27,"Washington, D.C.",Red Wine,23646
+27,"Washington, D.C.",White Wine,23775
+26,"Washington, D.C.",Sparkling Wine,3159
+26,"Washington, D.C.",Red Wine,23704
+26,"Washington, D.C.",White Wine,23821
+25,"Washington, D.C.",Sparkling Wine,3215
+25,"Washington, D.C.",Red Wine,23757
+25,"Washington, D.C.",White Wine,23865
+24,"Washington, D.C.",Sparkling Wine,3278
+24,"Washington, D.C.",Red Wine,23814
+24,"Washington, D.C.",White Wine,23915
+23,"Washington, D.C.",Sparkling Wine,3341
+23,"Washington, D.C.",Red Wine,23878
+23,"Washington, D.C.",White Wine,23965
+22,"Washington, D.C.",Sparkling Wine,23901
+22,"Washington, D.C.",Red Wine,23937
+22,"Washington, D.C.",White Wine,24013
+21,"Washington, D.C.",Sparkling Wine,23962
+21,"Washington, D.C.",Red Wine,23999
+21,"Washington, D.C.",White Wine,24067
+20,"Washington, D.C.",Sparkling Wine,24022
+20,"Washington, D.C.",Red Wine,24055
+20,"Washington, D.C.",White Wine,24115
+19,"Washington, D.C.",Sparkling Wine,24079
+19,"Washington, D.C.",Red Wine,24112
+19,"Washington, D.C.",White Wine,24167
+18,"Washington, D.C.",Sparkling Wine,16139
+18,"Washington, D.C.",Red Wine,16173
+18,"Washington, D.C.",White Wine,16219
+17,"Washington, D.C.",Sparkling Wine,16196
+17,"Washington, D.C.",Red Wine,16234
+17,"Washington, D.C.",White Wine,16273
+16,"Washington, D.C.",Sparkling Wine,16259
+16,"Washington, D.C.",Red Wine,16293
+16,"Washington, D.C.",White Wine,16325
+15,"Washington, D.C.",Sparkling Wine,4321
+15,"Washington, D.C.",Red Wine,4357
+15,"Washington, D.C.",White Wine,4396
+14,"Washington, D.C.",Sparkling Wine,4407
+14,"Washington, D.C.",Red Wine,4442
+14,"Washington, D.C.",White Wine,4493
