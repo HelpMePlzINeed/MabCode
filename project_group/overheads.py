@@ -6,7 +6,7 @@ def find_highest_overhead_category(overheads):
 
 def overhead_function():
     overhead_data = []
-    with open('MAB_stats/CSVs Real/overheads.csv', 'r', newline='', encoding='utf-8-sig') as file:
+    with open('project_group/csv_reports/overheads.csv', 'r', newline='', encoding='utf-8-sig') as file:
         reader = csv.DictReader(file)
         for row in reader:
             overhead_data.append(row)
