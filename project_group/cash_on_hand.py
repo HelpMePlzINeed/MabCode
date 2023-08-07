@@ -12,7 +12,7 @@ def compute_cash_difference(data):
 
 def cash_on_hand_function():
     cash_data = []
-    with open('MAB_stats/CSVs Real/cash-on-hand-usd(final).csv', 'r') as file:
+    with open('project_group/csv_reports/cash-on-hand-usd(final).csv', 'r') as file:
         reader = csv.DictReader(file)
         for row in reader:
             cash_data.append(row)
